@@ -19,14 +19,14 @@ python -m unittest -v
 
 ## Progress
 
-### Tier 1: Beginner (Python): 6/26
+### Tier 1: Beginner (Python): 7/26
 
 - [x] [Bin2Dec](1-beginner/bin2dec) — Binary-to-Decimal number converter
 - [x] [Countdown Timer](1-beginner/countdown-timer) — Event Countdown timer
 - [x] [CSV2JSON App](1-beginner/csv2json) — CSV to JSON converter
 - [x] [Dollars to Cents](1-beginner/dollars-to-cents) — Convert dollars to cents
 - [x] [First DB App](1-beginner/first-db-app) — Your first Database app!
-- [ ] Flip Image — Change the orientation of images across two axes
+- [x] [Flip Image](1-beginner/flip-image) — Change the orientation of images across two axes
 - [ ] GitHub Status — Display Current GitHub Status
 - [ ] Hello — User native language greeting
 - [ ] IOT Mailbox Simulator — Use callbacks to check your snail mail
