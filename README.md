@@ -19,11 +19,11 @@ python -m unittest -v
 
 ## Progress
 
-### Tier 1: Beginner (Python): 3/26
+### Tier 1: Beginner (Python): 4/26
 
 - [x] [Bin2Dec](1-beginner/bin2dec) — Binary-to-Decimal number converter
 - [x] [Countdown Timer](1-beginner/countdown-timer) — Event Countdown timer
-- [ ] CSV2JSON App — CSV to JSON converter
+- [x] [CSV2JSON App](1-beginner/csv2json) — CSV to JSON converter
 - [ ] Dollars to Cents — Convert dollars to cents
 - [ ] First DB App — Your first Database app!
 - [ ] Flip Image — Change the orientation of images across two axes
