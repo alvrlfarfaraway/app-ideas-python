@@ -1,0 +1,116 @@
+{
+  "title": "Python Dasar",
+  "pass_percent": 70,
+  "questions": [
+    {
+      "question": "Fungsi bawaan untuk mengetahui jumlah elemen sebuah list adalah...",
+      "answers": [
+        "size()",
+        "len()",
+        "count()",
+        "length()"
+      ],
+      "correct": 1,
+      "explanation": "len(daftar) mengembalikan jumlah elemen."
+    },
+    {
+      "question": "Berapa hasil dari 2 ** 3 ?",
+      "answers": [
+        "6",
+        "8",
+        "9",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "** adalah operator pangkat: 2 pangkat 3 = 8."
+    },
+    {
+      "question": "Berapa hasil dari 7 // 2 ?",
+      "answers": [
+        "3.5",
+        "3",
+        "4",
+        "2"
+      ],
+      "correct": 1,
+      "explanation": "// adalah pembagian bulat (dibulatkan ke bawah): 3."
+    },
+    {
+      "question": "Tipe data berikut yang TIDAK dapat diubah isinya setelah dibuat (immutable) adalah...",
+      "answers": [
+        "list",
+        "dict",
+        "tuple",
+        "set"
+      ],
+      "correct": 2,
+      "explanation": "tuple immutable; list, dict, dan set bisa diubah."
+    },
+    {
+      "question": "Cara yang benar membuat dictionary kosong adalah...",
+      "answers": [
+        "[]",
+        "{}",
+        "()",
+        "<>"
+      ],
+      "correct": 1,
+      "explanation": "{} membuat dict kosong; [] list kosong; () tuple kosong."
+    },
+    {
+      "question": "Apa hasil dari \"abc\".upper() ?",
+      "answers": [
+        "\"Abc\"",
+        "\"abc\"",
+        "\"ABC\"",
+        "Error"
+      ],
+      "correct": 2,
+      "explanation": "upper() mengubah semua huruf menjadi kapital."
+    },
+    {
+      "question": "Struktur yang dipakai Python untuk menangani error adalah...",
+      "answers": [
+        "try / catch",
+        "try / except",
+        "handle / error",
+        "if / error"
+      ],
+      "correct": 1,
+      "explanation": "Python memakai try / except (bukan catch)."
+    },
+    {
+      "question": "Apa hasil dari bool(\"\") (string kosong)?",
+      "answers": [
+        "True",
+        "False",
+        "None",
+        "Error"
+      ],
+      "correct": 1,
+      "explanation": "String kosong dianggap False."
+    },
+    {
+      "question": "Apa hasil dari [1, 2, 3][-1] ?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "IndexError"
+      ],
+      "correct": 2,
+      "explanation": "Indeks negatif menghitung dari belakang; -1 adalah elemen terakhir."
+    },
+    {
+      "question": "Perintah untuk memakai modul math adalah...",
+      "answers": [
+        "include math",
+        "using math",
+        "import math",
+        "require math"
+      ],
+      "correct": 2,
+      "explanation": "import math"
+    }
+  ]
+}

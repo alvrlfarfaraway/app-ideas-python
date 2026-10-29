@@ -1,0 +1,116 @@
+{
+  "title": "Git Dasar",
+  "pass_percent": 70,
+  "questions": [
+    {
+      "question": "Perintah untuk membuat repositori Git baru di folder saat ini adalah...",
+      "answers": [
+        "git new",
+        "git init",
+        "git start",
+        "git create"
+      ],
+      "correct": 1,
+      "explanation": "git init membuat folder .git."
+    },
+    {
+      "question": "Perintah untuk menyalin repositori dari remote ke komputer adalah...",
+      "answers": [
+        "git copy",
+        "git fetch",
+        "git clone",
+        "git download"
+      ],
+      "correct": 2,
+      "explanation": "git clone <url>."
+    },
+    {
+      "question": "Perintah untuk menyiapkan (stage) perubahan sebelum commit adalah...",
+      "answers": [
+        "git stage-all",
+        "git add",
+        "git prepare",
+        "git put"
+      ],
+      "correct": 1,
+      "explanation": "git add memasukkan perubahan ke staging area."
+    },
+    {
+      "question": "Perintah untuk melihat file mana yang berubah atau belum dilacak adalah...",
+      "answers": [
+        "git status",
+        "git state",
+        "git check",
+        "git info"
+      ],
+      "correct": 0,
+      "explanation": "git status."
+    },
+    {
+      "question": "Perintah untuk mengirim commit lokal ke remote adalah...",
+      "answers": [
+        "git send",
+        "git upload",
+        "git push",
+        "git commit --remote"
+      ],
+      "correct": 2,
+      "explanation": "git push."
+    },
+    {
+      "question": "Perintah untuk melihat riwayat commit adalah...",
+      "answers": [
+        "git history",
+        "git log",
+        "git list",
+        "git commits"
+      ],
+      "correct": 1,
+      "explanation": "git log."
+    },
+    {
+      "question": "Perintah yang mengambil perubahan dari remote lalu menggabungkannya ke branch saat ini adalah...",
+      "answers": [
+        "git pull",
+        "git get",
+        "git merge-remote",
+        "git sync"
+      ],
+      "correct": 0,
+      "explanation": "git pull = fetch + merge (atau rebase)."
+    },
+    {
+      "question": "Berkas yang berisi daftar file yang tidak ingin dilacak Git adalah...",
+      "answers": [
+        ".gitkeep",
+        ".gitignore",
+        ".gitconfig",
+        ".gitskip"
+      ],
+      "correct": 1,
+      "explanation": ".gitignore."
+    },
+    {
+      "question": "Perintah untuk melihat selisih perubahan yang belum di-stage adalah...",
+      "answers": [
+        "git compare",
+        "git changes",
+        "git diff",
+        "git delta"
+      ],
+      "correct": 2,
+      "explanation": "git diff."
+    },
+    {
+      "question": "Perintah untuk membatalkan staging sebuah file tanpa menghapus perubahannya adalah...",
+      "answers": [
+        "git restore --staged <file>",
+        "git delete <file>",
+        "git rm --force <file>",
+        "git remove <file>"
+      ],
+      "correct": 0,
+      "explanation": "git restore --staged <file> mengembalikan file dari staging area; isinya tetap."
+    }
+  ]
+}

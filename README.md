@@ -19,7 +19,7 @@ python -m unittest -v
 
 ## Progress
 
-### Tier 1: Beginner (Python): 15/26
+### Tier 1: Beginner (Python): 16/26
 
 - [x] [Bin2Dec](1-beginner/bin2dec) — Binary-to-Decimal number converter
 - [x] [Countdown Timer](1-beginner/countdown-timer) — Event Countdown timer
@@ -36,7 +36,7 @@ python -m unittest -v
 - [x] [Notes App](1-beginner/notes-app) — Create an online note pad
 - [x] [Pearson Regression](1-beginner/pearson-regression) — Correlation coefficient for two sets of data (notebook)
 - [x] [Pomodoro Clock](1-beginner/pomodoro) — Task timer to aid personal productivity
-- [ ] Quiz App — Test your knowledge by answering questions
+- [x] [Quiz App](1-beginner/quiz-app) — Test your knowledge by answering questions
 - [ ] Recipe App — Recipe
 - [ ] Random Meal Generator — Generate random meals
 - [ ] Random Number Generator — Generate random number between range
