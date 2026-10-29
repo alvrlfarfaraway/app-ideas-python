@@ -33,7 +33,7 @@ Tes memakai contoh baku (`ATTACKATDAWN` + `LEMON`), bolak-balik untuk beberapa k
 1. **Tebak panjang kunci.** Untuk panjang `n` yang benar, huruf-huruf pada posisi `1, n+1, 2n+1, ...` memakai huruf kunci yang sama, jadi masing-masing "kolom" itu seperti sandi Caesar dan IC-nya kembali tinggi. Panjang yang IC kolomnya tinggi adalah kandidatnya (kelipatan panjang kunci juga tinggi, jadi diambil yang terkecil yang mendekati yang terbaik).
 2. **Tebak tiap huruf kunci.** Coba 26 geseran untuk tiap kolom dan pilih yang frekuensi hurufnya paling mirip bahasa Inggris (uji chi-kuadrat).
 
-Hasil nyata pada teks uji (sekitar 800 huruf):
+Hasil nyata pada teks uji (734 huruf):
 
 | Kunci asli | Panjang yang ditebak | Kunci yang ditemukan |
 |---|---|---|
@@ -42,7 +42,7 @@ Hasil nyata pada teks uji (sekitar 800 huruf):
 | `CRYPTO` | 6 | `CRYPTO` |
 | `SECRETKEY` (9 huruf) | 6 (salah) | `DEESEE` (salah) |
 
-Pemecah ini **gagal** untuk kunci 9 huruf pada teks sependek itu: tiap kolom hanya berisi sekitar 90 huruf, terlalu sedikit untuk statistik yang andal. Semakin panjang kunci, semakin banyak teks sandi yang dibutuhkan penyerang. Itu juga alasan kunci Vigenere sepanjang pesan (*one-time pad*) tidak bisa dipatahkan dengan cara ini, tetapi pemakaiannya tidak praktis. Pemecah ini juga hanya untuk teks bahasa Inggris, karena tabel frekuensinya bahasa Inggris.
+Pemecah ini **gagal** untuk kunci 9 huruf pada teks sependek itu: tiap kolom hanya berisi sekitar 80 huruf, terlalu sedikit untuk statistik yang andal. Semakin panjang kunci, semakin banyak teks sandi yang dibutuhkan penyerang. Itu juga alasan kunci Vigenere sepanjang pesan (*one-time pad*) tidak bisa dipatahkan dengan cara ini, tetapi pemakaiannya tidak praktis. Pemecah ini juga hanya untuk teks bahasa Inggris, karena tabel frekuensinya bahasa Inggris.
 
 ## Pemetaan user stories
 
