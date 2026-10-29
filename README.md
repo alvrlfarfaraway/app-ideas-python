@@ -19,7 +19,7 @@ python -m unittest -v
 
 ## Progress
 
-### Tier 1: Beginner (Python): 24/26
+### Tier 1: Beginner (Python): 25/26
 
 - [x] [Bin2Dec](1-beginner/bin2dec) — Binary-to-Decimal number converter
 - [x] [Countdown Timer](1-beginner/countdown-timer) — Event Countdown timer
@@ -46,7 +46,7 @@ python -m unittest -v
 - [x] [Vigenere Cipher](1-beginner/vigenere-cipher) — Encrypt text using the Vigenere Cypher
 - [x] [Wind Chill](1-beginner/wind-chill) — Calculate the windchill factor from an actual temperature
 - [x] [Word Frequency](1-beginner/word-frequency) — Calculate word frequency in a block of text (notebook)
-- [ ] Weather App — Get the temperature, weather condition of a city
+- [x] [Weather App](1-beginner/weather-app) — Get the temperature, weather condition of a city
 
 ### Tier 1 yang tetap HTML/CSS/JS (9)
 
