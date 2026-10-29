@@ -15,9 +15,9 @@ python github_status.py --no-color
 Contoh keluaran:
 
 ```
-✔ Git Operations   Operational
-▲ API Requests     Degraded performance
-✔ Issues           Operational
+✔ Git Operations  Operational
+▲ API Requests    Degraded performance
+✔ Issues          Operational
 
 1 komponen bermasalah.
 ```
