@@ -1,0 +1,279 @@
+[
+  {
+    "title": "Nasi Goreng Sederhana",
+    "meal_type": "breakfast",
+    "serves": 2,
+    "difficulty": "beginner",
+    "ingredients": [
+      {
+        "item": "nasi putih (sebaiknya semalam)",
+        "amount": "3 piring"
+      },
+      {
+        "item": "telur",
+        "amount": "2 butir"
+      },
+      {
+        "item": "bawang putih, cincang",
+        "amount": "3 siung"
+      },
+      {
+        "item": "bawang merah, iris",
+        "amount": "3 butir"
+      },
+      {
+        "item": "kecap manis",
+        "amount": "2 sendok makan"
+      },
+      {
+        "item": "garam",
+        "amount": "1/2 sendok teh"
+      },
+      {
+        "item": "minyak goreng",
+        "amount": "3 sendok makan"
+      }
+    ],
+    "steps": [
+      "Panaskan minyak, tumis bawang putih dan bawang merah sampai harum.",
+      "Geser bumbu ke pinggir wajan, pecahkan telur, orak-arik sampai matang.",
+      "Masukkan nasi, aduk rata dengan api besar.",
+      "Tambahkan kecap manis dan garam, aduk sampai warnanya rata.",
+      "Cicipi, lalu sajikan selagi hangat."
+    ]
+  },
+  {
+    "title": "Telur Dadar",
+    "meal_type": "breakfast",
+    "serves": 1,
+    "difficulty": "beginner",
+    "ingredients": [
+      {
+        "item": "telur",
+        "amount": "2 butir"
+      },
+      {
+        "item": "daun bawang, iris halus",
+        "amount": "1 batang"
+      },
+      {
+        "item": "garam",
+        "amount": "1 jumput"
+      },
+      {
+        "item": "minyak goreng",
+        "amount": "1 sendok makan"
+      }
+    ],
+    "steps": [
+      "Kocok telur dengan garam dan daun bawang.",
+      "Panaskan minyak di wajan datar dengan api sedang.",
+      "Tuang telur, ratakan, masak sekitar 2 menit sampai bagian bawah kecokelatan.",
+      "Balik, masak 1 menit lagi, lalu angkat."
+    ]
+  },
+  {
+    "title": "Sayur Bening Bayam",
+    "meal_type": "lunch",
+    "serves": 4,
+    "difficulty": "beginner",
+    "ingredients": [
+      {
+        "item": "bayam, petik daunnya",
+        "amount": "2 ikat"
+      },
+      {
+        "item": "jagung manis, pipil atau potong",
+        "amount": "1 buah"
+      },
+      {
+        "item": "bawang putih, iris",
+        "amount": "2 siung"
+      },
+      {
+        "item": "bawang merah, iris",
+        "amount": "3 butir"
+      },
+      {
+        "item": "garam",
+        "amount": "1 sendok teh"
+      },
+      {
+        "item": "air",
+        "amount": "1 liter"
+      }
+    ],
+    "steps": [
+      "Didihkan air bersama bawang putih dan bawang merah.",
+      "Masukkan jagung, masak sekitar 10 menit sampai empuk.",
+      "Tambahkan garam, lalu masukkan bayam.",
+      "Masak 1-2 menit saja supaya bayam tetap hijau, lalu angkat."
+    ]
+  },
+  {
+    "title": "Soto Ayam",
+    "meal_type": "lunch",
+    "serves": 4,
+    "difficulty": "intermediate",
+    "ingredients": [
+      {
+        "item": "ayam, potong",
+        "amount": "500 g"
+      },
+      {
+        "item": "air",
+        "amount": "1,5 liter"
+      },
+      {
+        "item": "bawang putih",
+        "amount": "4 siung"
+      },
+      {
+        "item": "bawang merah",
+        "amount": "5 butir"
+      },
+      {
+        "item": "kunyit",
+        "amount": "2 cm"
+      },
+      {
+        "item": "jahe",
+        "amount": "2 cm"
+      },
+      {
+        "item": "serai, memarkan",
+        "amount": "2 batang"
+      },
+      {
+        "item": "daun salam",
+        "amount": "2 lembar"
+      },
+      {
+        "item": "garam",
+        "amount": "1,5 sendok teh"
+      },
+      {
+        "item": "bihun, rendam air panas",
+        "amount": "100 g"
+      },
+      {
+        "item": "telur rebus",
+        "amount": "2 butir"
+      },
+      {
+        "item": "seledri dan bawang goreng",
+        "amount": "secukupnya"
+      }
+    ],
+    "steps": [
+      "Rebus ayam dalam air sampai mendidih, buang busa yang muncul.",
+      "Haluskan bawang putih, bawang merah, kunyit, dan jahe, lalu tumis sampai harum.",
+      "Masukkan bumbu tumis, serai, dan daun salam ke dalam kuah ayam.",
+      "Masak dengan api kecil sekitar 40 menit sampai ayam empuk, beri garam.",
+      "Angkat ayam, suwir dagingnya.",
+      "Tata bihun, suwiran ayam, dan telur dalam mangkuk, siram kuah panas, taburi seledri dan bawang goreng."
+    ]
+  },
+  {
+    "title": "Pisang Goreng",
+    "meal_type": "snack",
+    "serves": 4,
+    "difficulty": "beginner",
+    "ingredients": [
+      {
+        "item": "pisang raja atau kepok, matang",
+        "amount": "6 buah"
+      },
+      {
+        "item": "tepung terigu",
+        "amount": "100 g"
+      },
+      {
+        "item": "tepung beras",
+        "amount": "2 sendok makan"
+      },
+      {
+        "item": "gula pasir",
+        "amount": "2 sendok makan"
+      },
+      {
+        "item": "garam",
+        "amount": "1 jumput"
+      },
+      {
+        "item": "air",
+        "amount": "150 ml"
+      },
+      {
+        "item": "minyak untuk menggoreng",
+        "amount": "secukupnya"
+      }
+    ],
+    "steps": [
+      "Campur tepung terigu, tepung beras, gula, dan garam, lalu tuang air sedikit demi sedikit sampai adonan kental.",
+      "Belah pisang menjadi dua memanjang.",
+      "Celupkan pisang ke adonan sampai terlapisi.",
+      "Goreng dalam minyak panas dengan api sedang sampai kuning keemasan.",
+      "Tiriskan, sajikan hangat."
+    ]
+  },
+  {
+    "title": "Rendang Daging",
+    "meal_type": "supper",
+    "serves": 6,
+    "difficulty": "advanced",
+    "ingredients": [
+      {
+        "item": "daging sapi, potong kotak",
+        "amount": "1 kg"
+      },
+      {
+        "item": "santan kental dari 2 butir kelapa",
+        "amount": "2 liter"
+      },
+      {
+        "item": "cabai merah keriting",
+        "amount": "150 g"
+      },
+      {
+        "item": "bawang merah",
+        "amount": "10 butir"
+      },
+      {
+        "item": "bawang putih",
+        "amount": "6 siung"
+      },
+      {
+        "item": "jahe",
+        "amount": "4 cm"
+      },
+      {
+        "item": "lengkuas, memarkan",
+        "amount": "4 cm"
+      },
+      {
+        "item": "serai, memarkan",
+        "amount": "3 batang"
+      },
+      {
+        "item": "daun jeruk",
+        "amount": "5 lembar"
+      },
+      {
+        "item": "daun kunyit",
+        "amount": "2 lembar"
+      },
+      {
+        "item": "garam",
+        "amount": "2 sendok teh"
+      }
+    ],
+    "steps": [
+      "Haluskan cabai, bawang merah, bawang putih, dan jahe.",
+      "Campur bumbu halus, lengkuas, serai, daun jeruk, daun kunyit, dan santan dalam panci besar.",
+      "Masak sambil sesekali diaduk sampai mendidih, lalu masukkan daging.",
+      "Kecilkan api. Masak 3-4 jam sambil sering diaduk sampai santan mengering dan bumbu menghitam.",
+      "Beri garam, cicipi. Rendang siap saat minyaknya keluar dan daging empuk."
+    ]
+  }
+]
