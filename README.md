@@ -19,7 +19,7 @@ python -m unittest -v
 
 ## Progress
 
-### Tier 1: Beginner (Python): 18/26
+### Tier 1: Beginner (Python): 19/26
 
 - [x] [Bin2Dec](1-beginner/bin2dec) — Binary-to-Decimal number converter
 - [x] [Countdown Timer](1-beginner/countdown-timer) — Event Countdown timer
@@ -41,7 +41,7 @@ python -m unittest -v
 - [ ] Random Meal Generator — Generate random meals
 - [x] [Random Number Generator](1-beginner/random-number) — Generate random number between range
 - [x] [Roman to Decimal Converter](1-beginner/roman-to-decimal) — Convert Roman to Decimal numbers
-- [ ] Stopwatch App — Count time spent on activities
+- [x] [Stopwatch App](1-beginner/stopwatch) — Count time spent on activities
 - [ ] TrueOrFalse — Identify the result of a conditional comparison
 - [ ] Vigenere Cipher — Encrypt text using the Vigenere Cypher
 - [ ] Wind Chill — Calculate the windchill factor from an actual temperature
