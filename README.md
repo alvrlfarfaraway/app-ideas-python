@@ -19,7 +19,7 @@ python -m unittest -v
 
 ## Progress
 
-### Tier 1: Beginner (Python): 16/26
+### Tier 1: Beginner (Python): 17/26
 
 - [x] [Bin2Dec](1-beginner/bin2dec) — Binary-to-Decimal number converter
 - [x] [Countdown Timer](1-beginner/countdown-timer) — Event Countdown timer
@@ -39,7 +39,7 @@ python -m unittest -v
 - [x] [Quiz App](1-beginner/quiz-app) — Test your knowledge by answering questions
 - [ ] Recipe App — Recipe
 - [ ] Random Meal Generator — Generate random meals
-- [ ] Random Number Generator — Generate random number between range
+- [x] [Random Number Generator](1-beginner/random-number) — Generate random number between range
 - [ ] Roman to Decimal Converter — Convert Roman to Decimal numbers
 - [ ] Stopwatch App — Count time spent on activities
 - [ ] TrueOrFalse — Identify the result of a conditional comparison
