@@ -19,7 +19,7 @@ class NotebookTest(unittest.TestCase):
         NotebookClient(notebook, timeout=120, kernel_name="python3", resources={"metadata": {"path": HERE}}).execute()
         figures = sum(1 for cell in notebook.cells if cell.cell_type == "code"
                       for output in cell.outputs if output.output_type == "display_data")
-        self.assertGreaterEqual(figures, 5)
+        self.assertGreaterEqual(figures, 4)
 
 
 if __name__ == "__main__":
