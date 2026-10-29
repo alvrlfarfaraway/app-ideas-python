@@ -19,7 +19,7 @@ python -m unittest -v
 
 ## Progress
 
-### Tier 1: Beginner (Python): 10/26
+### Tier 1: Beginner (Python): 11/26
 
 - [x] [Bin2Dec](1-beginner/bin2dec) — Binary-to-Decimal number converter
 - [x] [Countdown Timer](1-beginner/countdown-timer) — Event Countdown timer
@@ -30,7 +30,7 @@ python -m unittest -v
 - [x] [GitHub Status](1-beginner/github-status) — Display Current GitHub Status
 - [x] [Hello](1-beginner/hello) — User native language greeting
 - [x] [IOT Mailbox Simulator](1-beginner/iot-mailbox) — Use callbacks to check your snail mail
-- [ ] Input Validation — Validate inputs entered by a user using RegEx
+- [x] [Input Validation](1-beginner/input-validation) — Validate inputs entered by a user using RegEx
 - [x] [JSON2CSV App](1-beginner/json2csv) — JSON to CSV converter
 - [ ] Lorem Ipsum Generator — Generate lorem ipsum placeholder text
 - [ ] Notes App — Create an online note pad
