@@ -24,7 +24,7 @@ Rahil  (baru)
 Rayus  (baru)
 ```
 
-`(baru)` berarti nama itu tidak ada di data latih. Model yang sudah dilatih ada di `model/gru-nama.npz` (73 KB), jadi bisa langsung dipakai.
+`(baru)` berarti nama itu tidak ada di data latih. Model yang sudah dilatih ada di `model/gru-nama.npz` (48 KB), jadi bisa langsung dipakai.
 
 Butuh `numpy`. Notebook juga butuh `pandas`, `matplotlib`, dan `notebook`.
 
