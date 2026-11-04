@@ -52,7 +52,7 @@ python -m unittest -v
 
 Dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-projects): Border Radius Previewer, Calculator, Christmas Lights, Cause Effect App, Color Cycle (sudah selesai di sana), serta Dynamic CSS Variables, Key Value, Product Landing Page, dan Slider Design (belum, karena isinya CSS dan event browser).
 
-### Tier 2: Intermediate (Python): 10/33
+### Tier 2: Intermediate (Python): 11/33
 
 - [x] [Bit Masks](2-intermediate/bit-masks) — Using Bit Masks for Conditions
 - [x] [Book Finder App](2-intermediate/book-finder) — Search for books by multiple criteria
@@ -65,7 +65,7 @@ Dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-
 - [x] [Emoji Translator App](2-intermediate/emoji-translator) — Translate sentences into Emoji
 - [x] [Flashcards App](2-intermediate/flashcards) — Review and test your knowledge through Flash Cards
 - [x] [Flip Art App](2-intermediate/flip-art) — Animate a set of images
-- [ ] Game Suggestion App — Create polls to decide what games to play
+- [x] [Game Suggestion App](2-intermediate/game-suggestion) — Create polls to decide what games to play
 - [ ] GitHub Profiles — A GitHub user search App
 - [ ] HighStriker Game — Highstriker strongman carnival game
 - [ ] Image Scanner — Image Scanner App
