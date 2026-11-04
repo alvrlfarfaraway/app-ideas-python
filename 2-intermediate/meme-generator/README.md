@@ -15,7 +15,7 @@ python meme.py foto.jpg --top "SAAT KODE JALAN" --bottom "TAPI TIDAK TAHU KENAPA
 python meme.py --top "..." --font "Comic Sans" --color "#ffd60a" --size 70 -o meme.jpg
 ```
 
-Hasil perintah terakhir di atas tanpa `foto.jpg`, yaitu dengan gambar contoh:
+Hasil `python meme.py --top "Saat kode jalan di percobaan pertama" --bottom "tapi tidak tahu kenapa" -o contoh.png` (gambar contoh, font dan warna bawaan):
 
 ![Contoh meme](screenshots/contoh.png)
 
