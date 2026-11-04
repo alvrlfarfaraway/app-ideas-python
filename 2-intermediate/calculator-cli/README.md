@@ -46,7 +46,7 @@ contoh: calc add 1 2 3 | calc add -f 1.5 2.25 | calc add even 1 2 3 4
 - **Dengan `-f`:** angka dihitung dengan `Decimal`, bukan `float`. Karena itu `0.1 + 0.2` menghasilkan `0.3`, bukan `0.30000000000000004`. Penjumlahan, pengurangan, dan perkalian tetap eksak.
 - **Bilangan bulat:** hasilnya eksak berapa pun panjangnya, sampai 4000 digit (`pow 2 100` dicetak lengkap). Batas ini ada karena Python 3.12 menolak mencetak bilangan bulat lebih dari 4300 digit.
 - **Pembagian, akar, dan pangkat pecahan:** hasilnya dibulatkan ke 28 digit penting. `div 7 2` menghasilkan `3.5` walaupun tanpa `-f`.
-- **Angka sangat besar atau sangat kecil:** ditampilkan dalam notasi ilmiah (`1E+40`, `7.08E-1506`).
+- **Angka sangat besar atau sangat kecil:** ditampilkan dalam notasi ilmiah: `pow -f 10 40` menghasilkan `1E+40`, `div -f 1 1e40` menghasilkan `1E-40`.
 - **Pesan error:** ditulis ke stderr dengan kode keluar 1, misalnya untuk pembagian dengan nol, akar bilangan negatif, `0` pangkat negatif, atau `even` yang dipakai bersama `-f`.
 
 ## Tes
