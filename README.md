@@ -2,11 +2,18 @@
 
 Latihan dari daftar [app-ideas](https://github.com/florinpop17/app-ideas) karya Florin Pop, dikerjakan dengan **Python**. Dimulai dari Tier 1 (Beginner), lalu Intermediate dan Advanced.
 
-Project logika murni berupa skrip Python dengan tes `unittest`. Project yang dekat dengan analisis data berupa notebook Jupyter. Project yang memang visual (CSS, DOM, keyboard di browser) tetap HTML/CSS/JS dan dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-projects).
+Project logika murni berupa skrip Python dengan tes `unittest`. Project yang dekat dengan analisis data berupa notebook Jupyter. Di Tier 1, project yang memang visual (CSS, DOM, keyboard di browser) tetap HTML/CSS/JS dan dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-projects). Mulai Tier 2, project visual (game, menggambar, animasi) juga dibuat dengan Python, memakai jendela Tkinter.
 
 ## Kebutuhan
 
-Python 3.12. Skrip hanya memakai pustaka bawaan, kecuali yang tertulis di README project (misalnya `requests`, `pillow`). Notebook butuh `notebook`, `pandas`, `numpy`, dan `matplotlib`.
+Python 3.12. Banyak project hanya memakai pustaka bawaan. Paket lain yang dipakai tertulis di README masing-masing project:
+
+```bash
+pip install pillow numpy pandas matplotlib mistune segno tzdata notebook
+pip install zxing-cpp      # opsional, hanya untuk tes QR Code Badge
+```
+
+Beberapa project Tier 2 memakai fitur Windows: OCR bawaan Windows (Image Scanner), `winsound` (bunyi), dan font Segoe UI Emoji. Di sistem lain, project itu tetap berjalan dengan fitur yang dikurangi, dan tes yang membutuhkan fitur itu dilewati.
 
 ## Struktur
 
@@ -58,7 +65,7 @@ Dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-
 - [x] [Book Finder App](2-intermediate/book-finder) — Search for books by multiple criteria
 - [x] [Calculator CLI](2-intermediate/calculator-cli) — Create a basic calculator cli
 - [x] [Card Memory Game](2-intermediate/card-memory-game) — Memorize and match hidden images
-- [ ] Charity Finder App — Find a Global Charity to donate to
+- [ ] Charity Finder App — Find a Global Charity to donate to *(ditunda: API GlobalGiving butuh kunci API dari akun yang didaftarkan sendiri)*
 - [x] [Chrome Theme Extension](2-intermediate/chrome-theme-extension) — Build your own chrome theme extention
 - [x] [Currency Converter](2-intermediate/currency-converter) — Convert one currency to another
 - [x] [Drawing App](2-intermediate/drawing-app) — Create digital artwork on the web
