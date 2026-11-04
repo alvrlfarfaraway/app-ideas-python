@@ -52,7 +52,7 @@ python -m unittest -v
 
 Dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-projects): Border Radius Previewer, Calculator, Christmas Lights, Cause Effect App, Color Cycle (sudah selesai di sana), serta Dynamic CSS Variables, Key Value, Product Landing Page, dan Slider Design (belum, karena isinya CSS dan event browser).
 
-### Tier 2: Intermediate (Python): 22/33
+### Tier 2: Intermediate (Python): 23/33
 
 - [x] [Bit Masks](2-intermediate/bit-masks) — Using Bit Masks for Conditions
 - [x] [Book Finder App](2-intermediate/book-finder) — Search for books by multiple criteria
@@ -77,7 +77,7 @@ Dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-
 - [x] [Password Generator](2-intermediate/password-generator) — Generate random passwords
 - [x] [Podcast Directory](2-intermediate/podcast-directory) — Directory of favorite podcasts
 - [x] [QR Code Badge Generator](2-intermediate/qrcode-badge) — Encode badge info in a QRcode
-- [ ] Regular Expression Helper — Test Regular Expressions
+- [x] [Regular Expression Helper](2-intermediate/regexp-helper) — Test Regular Expressions
 - [ ] Sales Receipts App — Record Sales Receipts in a DB
 - [ ] Simple Online Store — Simple Online Store
 - [ ] Sports Bracket Generator — Generate a sports bracket diagram
