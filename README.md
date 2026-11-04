@@ -10,7 +10,7 @@ Python 3.12. Skrip hanya memakai pustaka bawaan, kecuali yang tertulis di README
 
 ## Struktur
 
-`1-beginner/<project>/` berisi kode, `test_*.py`, dan `README.md` tiap project. Jalankan tes dari dalam foldernya:
+`1-beginner/<project>/` dan `2-intermediate/<project>/` berisi kode, `test_*.py`, dan `README.md` tiap project. Jalankan tes dari dalam foldernya:
 
 ```bash
 cd 1-beginner/bin2dec
@@ -51,3 +51,39 @@ python -m unittest -v
 ### Tier 1 yang tetap HTML/CSS/JS (9)
 
 Dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-projects): Border Radius Previewer, Calculator, Christmas Lights, Cause Effect App, Color Cycle (sudah selesai di sana), serta Dynamic CSS Variables, Key Value, Product Landing Page, dan Slider Design (belum, karena isinya CSS dan event browser).
+
+### Tier 2: Intermediate (Python): 1/33
+
+- [x] [Bit Masks](2-intermediate/bit-masks) — Using Bit Masks for Conditions
+- [ ] Book Finder App — Search for books by multiple criteria
+- [ ] Calculator CLI — Create a basic calculator cli
+- [ ] Card Memory Game — Memorize and match hidden images
+- [ ] Charity Finder App — Find a Global Charity to donate to
+- [ ] Chrome Theme Extension — Build your own chrome theme extention
+- [ ] Currency Converter — Convert one currency to another
+- [ ] Drawing App — Create digital artwork on the web
+- [ ] Emoji Translator App — Translate sentences into Emoji
+- [ ] Flashcards App — Review and test your knowledge through Flash Cards
+- [ ] Flip Art App — Animate a set of images
+- [ ] Game Suggestion App — Create polls to decide what games to play
+- [ ] GitHub Profiles — A GitHub user search App
+- [ ] HighStriker Game — Highstriker strongman carnival game
+- [ ] Image Scanner — Image Scanner App
+- [ ] Markdown Previewer — Preview text formatted in GitHub flavored markdown
+- [ ] Markdown Table Generator — Convert a table into Markdown-formatted text
+- [ ] Math Editor — A math editor for students to use
+- [ ] Meme Generator App — Create custom memes
+- [ ] Name Generation using RNNs — Generate names using names dataset
+- [ ] Password Generator — Generate random passwords
+- [ ] Podcast Directory — Directory of favorite podcasts
+- [ ] QR Code Badge Generator — Encode badge info in a QRcode
+- [ ] Regular Expression Helper — Test Regular Expressions
+- [ ] Sales Receipts App — Record Sales Receipts in a DB
+- [ ] Simple Online Store — Simple Online Store
+- [ ] Sports Bracket Generator — Generate a sports bracket diagram
+- [ ] String Art — An animation of moving, colored strings
+- [ ] This or That Game — This or That Game
+- [ ] Timezone Slackbot — Display Team Timezones
+- [ ] To-Do App — Manage personal to-do tasks
+- [ ] Typing Practice — Typing Practice
+- [ ] Voting App — Voting App
