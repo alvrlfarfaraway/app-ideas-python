@@ -52,10 +52,10 @@ python -m unittest -v
 
 Dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-projects): Border Radius Previewer, Calculator, Christmas Lights, Cause Effect App, Color Cycle (sudah selesai di sana), serta Dynamic CSS Variables, Key Value, Product Landing Page, dan Slider Design (belum, karena isinya CSS dan event browser).
 
-### Tier 2: Intermediate (Python): 1/33
+### Tier 2: Intermediate (Python): 2/33
 
 - [x] [Bit Masks](2-intermediate/bit-masks) — Using Bit Masks for Conditions
-- [ ] Book Finder App — Search for books by multiple criteria
+- [x] [Book Finder App](2-intermediate/book-finder) — Search for books by multiple criteria
 - [ ] Calculator CLI — Create a basic calculator cli
 - [ ] Card Memory Game — Memorize and match hidden images
 - [ ] Charity Finder App — Find a Global Charity to donate to
