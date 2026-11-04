@@ -1,0 +1,101 @@
+{
+ "ok": true,
+ "members": [
+  {
+   "id": "U01RINA",
+   "name": "rina",
+   "real_name": "Rina Kartika",
+   "tz": "Asia/Jakarta",
+   "tz_offset": 25200,
+   "deleted": false,
+   "profile": {
+    "display_name": "Rina",
+    "real_name": "Rina Kartika"
+   }
+  },
+  {
+   "id": "U02BUDI",
+   "name": "budi",
+   "real_name": "Budi Santoso",
+   "tz": "Asia/Makassar",
+   "tz_offset": 28800,
+   "deleted": false,
+   "profile": {
+    "display_name": "Budi",
+    "real_name": "Budi Santoso"
+   }
+  },
+  {
+   "id": "U03WAYAN",
+   "name": "wayan",
+   "real_name": "I Wayan Sudarma",
+   "tz": "Asia/Makassar",
+   "tz_offset": 28800,
+   "deleted": false,
+   "profile": {
+    "display_name": "Wayan",
+    "real_name": "I Wayan Sudarma"
+   }
+  },
+  {
+   "id": "U04YOHAN",
+   "name": "yohanes",
+   "real_name": "Yohanes Wenda",
+   "tz": "Asia/Jayapura",
+   "tz_offset": 32400,
+   "deleted": false,
+   "profile": {
+    "display_name": "Yohanes",
+    "real_name": "Yohanes Wenda"
+   }
+  },
+  {
+   "id": "U05PRIYA",
+   "name": "priya",
+   "real_name": "Priya Raman",
+   "tz": "Asia/Kolkata",
+   "tz_offset": 19800,
+   "deleted": false,
+   "profile": {
+    "display_name": "Priya",
+    "real_name": "Priya Raman"
+   }
+  },
+  {
+   "id": "U06SAM",
+   "name": "sam",
+   "real_name": "Sam Carter",
+   "tz": "America/New_York",
+   "tz_offset": -18000,
+   "deleted": false,
+   "profile": {
+    "display_name": "Sam",
+    "real_name": "Sam Carter"
+   }
+  },
+  {
+   "id": "U07LENA",
+   "name": "lena",
+   "real_name": "Lena Vogel",
+   "tz": "Europe/Berlin",
+   "tz_offset": 3600,
+   "deleted": false,
+   "profile": {
+    "display_name": "Lena",
+    "real_name": "Lena Vogel"
+   }
+  },
+  {
+   "id": "U08KENJI",
+   "name": "kenji",
+   "real_name": "Kenji Sato",
+   "tz": "Asia/Tokyo",
+   "tz_offset": 32400,
+   "deleted": false,
+   "profile": {
+    "display_name": "Kenji",
+    "real_name": "Kenji Sato"
+   }
+  }
+ ]
+}
