@@ -52,7 +52,7 @@ python -m unittest -v
 
 Dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-projects): Border Radius Previewer, Calculator, Christmas Lights, Cause Effect App, Color Cycle (sudah selesai di sana), serta Dynamic CSS Variables, Key Value, Product Landing Page, dan Slider Design (belum, karena isinya CSS dan event browser).
 
-### Tier 2: Intermediate (Python): 18/33
+### Tier 2: Intermediate (Python): 19/33
 
 - [x] [Bit Masks](2-intermediate/bit-masks) — Using Bit Masks for Conditions
 - [x] [Book Finder App](2-intermediate/book-finder) — Search for books by multiple criteria
@@ -73,7 +73,7 @@ Dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-
 - [x] [Markdown Table Generator](2-intermediate/markdown-table-generator) — Convert a table into Markdown-formatted text
 - [x] [Math Editor](2-intermediate/math-editor) — A math editor for students to use
 - [x] [Meme Generator App](2-intermediate/meme-generator) — Create custom memes
-- [ ] Name Generation using RNNs — Generate names using names dataset
+- [x] [Name Generation using RNNs](2-intermediate/name-generator) — Generate names using names dataset
 - [ ] Password Generator — Generate random passwords
 - [ ] Podcast Directory — Directory of favorite podcasts
 - [ ] QR Code Badge Generator — Encode badge info in a QRcode
