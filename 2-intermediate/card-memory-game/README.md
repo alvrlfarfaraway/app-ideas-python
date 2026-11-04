@@ -24,7 +24,7 @@ python memory_game.py
 | Sedang | 6×6 | 18 | 3:00 |
 | Sulit | 8×8 | 32 | 5:00 |
 
-Makin sulit, kartunya makin banyak dan waktu per pasangan makin sedikit (11,3 → 10 → 9,4 detik).
+Makin sulit, kartunya makin banyak dan waktu per pasangan makin sedikit (11,25 → 10 → 9,375 detik).
 
 ![Level Sulit, 8×8](screenshots/sulit.png)
 
