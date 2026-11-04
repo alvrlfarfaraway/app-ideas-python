@@ -52,7 +52,7 @@ python -m unittest -v
 
 Dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-projects): Border Radius Previewer, Calculator, Christmas Lights, Cause Effect App, Color Cycle (sudah selesai di sana), serta Dynamic CSS Variables, Key Value, Product Landing Page, dan Slider Design (belum, karena isinya CSS dan event browser).
 
-### Tier 2: Intermediate (Python): 31/33
+### Tier 2: Intermediate (Python): 32/33
 
 - [x] [Bit Masks](2-intermediate/bit-masks) — Using Bit Masks for Conditions
 - [x] [Book Finder App](2-intermediate/book-finder) — Search for books by multiple criteria
@@ -86,4 +86,4 @@ Dikerjakan di [app-ideas-projects](https://github.com/alvrlfarfaraway/app-ideas-
 - [x] [Timezone Slackbot](2-intermediate/timezone-slackbot) — Display Team Timezones
 - [x] [To-Do App](2-intermediate/to-do-app) — Manage personal to-do tasks
 - [x] [Typing Practice](2-intermediate/typing-practice) — Typing Practice
-- [ ] Voting App — Voting App
+- [x] [Voting App](2-intermediate/voting-app) — Voting App
